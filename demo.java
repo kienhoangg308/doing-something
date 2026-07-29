@@ -7,3 +7,4 @@ feaB2
 feaB3
 feaB4
 feaB5
+        function feaB
